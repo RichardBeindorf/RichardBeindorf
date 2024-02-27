@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Moin and Welcome to my Github Page
+# Hey i am Richard, you can also call me Rich!
 
-<!--
-**RichardBeindorf/RichardBeindorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Another upstart Web Devoloper trying to take your Job('s).
 
-Here are some ideas to get you started:
+With a background in commonication and media sciences, i wandered through a pleathora of diciplines to end up in the beautiful struggle that is coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My motivation is to ideate and construct websites and applications that will baffle you.
+
+Current Skill Status:
+|Skill   |Deph   |
+|--------|-------|
+|UI/UX   |Fundamentals|
+|HTML    |Advanced|
+
+
+![RichardBeindorf GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbeindorf&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBeindorf)](https://github.com/RichardBeindorf/github-readme-stats)
