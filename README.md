@@ -1,5 +1,5 @@
 #### Moin and Welcome to my Github Page
-# Hey i am Richard, 
+# Hey i am Richard
 but since you're here call me Rich
 
 ###### Another upstart Web Devoloper trying to take your Job('s).
@@ -9,6 +9,7 @@ With a background in commonication and media sciences, i wandered through a plea
 My motivation is to ideate and construct websites and applications that will baffle you.
 
 Current Skill Status:
+
 |Skill   |Deph   |
 |--------|-------|
 |UI/UX   |Fundamentals|
