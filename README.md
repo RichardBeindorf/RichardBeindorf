@@ -13,7 +13,10 @@ Current Skill Status:
 |--------|-------|
 |UI/UX   |Fundamentals|
 |HTML    |Advanced|
-|CSS|Penetrating the idea of responiveness|
+|CSS|Decent (i like this stuff)|
+|JS|Okay|
+|React|Think i figured it out|
+|NextJs|Current main framework|
 
 
 ![RichardBeindorf GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbeindorf&hide=contribs,prs)
