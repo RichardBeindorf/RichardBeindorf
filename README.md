@@ -1,5 +1,6 @@
 #### Moin and Welcome to my Github Page
-# Hey i am Richard, you can also call me Rich!
+# Hey i am Richard, 
+but since you're here call me Rich
 
 ###### Another upstart Web Devoloper trying to take your Job('s).
 
