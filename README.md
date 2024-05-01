@@ -19,7 +19,7 @@ Current Skill Status:
 |React|Think i figured it out|
 |NextJs|Current main framework|
 
-<img src="profile-3d-contrib/profile-season-animate.svg" width="100%">
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![RichardBeindorf GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbeindorf&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBeindorf)](https://github.com/RichardBeindorf/github-readme-stats)
