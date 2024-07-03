@@ -15,9 +15,11 @@ Current Skill Status:
 |UI/UX   |Fundamentals|
 |HTML    |Advanced|
 |CSS|Decent (i like this stuff)|
-|JS|Okay|
+|JS|Good Enough|
+|TS|Working on it|
 |React|Think i figured it out|
 |NextJs|Current main framework|
+|Angular|Still learning!|
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
