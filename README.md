@@ -2,8 +2,6 @@
 # Hey i am Richard
 but since you're here call me Rich
 
-###### Another upstart Web Devoloper trying to take your Job('s).
-
 With a background in commonication and media sciences, i wandered through a pleathora of diciplines to end up in the beautiful struggle that is coding.
 
 My motivation is to ideate and construct websites and applications that will baffle you.
