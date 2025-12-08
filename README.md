@@ -18,11 +18,7 @@ Current Skill Status:
 |NextJs|If SSR or easy hosting is needded|
 |ThreeJS/WebGL|Advanced|
 |Angular|Fundamentals|
-|React|Main Framework|
 |NodeJS|Fundamentals|
 |MongoDB|Fundamentals|
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-![RichardBeindorf GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbeindorf&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBeindorf)](https://github.com/RichardBeindorf/github-readme-stats)
