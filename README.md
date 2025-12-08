@@ -1,6 +1,5 @@
 #### Moin and Welcome to my Github Page
 # Hey i am Richard
-but since you're here call me Rich
 
 With a background in commonication and media sciences, i wandered through a pleathora of diciplines to end up in the beautiful struggle that is development.
 
@@ -10,14 +9,18 @@ Current Skill Status:
 
 |Skill   |Deph   |
 |--------|-------|
-|UI/UX   |Fundamentals|
-|HTML    |Advanced|
-|CSS|Advanced|
-|JS|Pretty Good|
-|TS|Only using this actully|
+|UI/UX   |Work Experience|
+|HTML    |Pro|
+|CSS|Pro|
+|JS|Expert|
+|TS|Only using this actually|
 |React|Main Framework|
 |NextJs|If SSR or easy hosting is needded|
-|Angular|Fundamentals checked|
+|ThreeJS/WebGL|Advanced|
+|Angular|Fundamentals|
+|React|Main Framework|
+|NodeJS|Fundamentals|
+|MongoDB|Fundamentals|
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
