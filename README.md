@@ -5,6 +5,10 @@ With a background in commonication and media sciences, i wandered through a plea
 
 My motivation is to ideate and construct websites and applications that will baffle you. 🌊
 
+Also find me on my GitLab profile!
+
+**https://gitlab.com/RichardBeindorf1**
+
 Current Skill Status:
 
 |Skill   |Deph   |
