@@ -3,11 +3,11 @@
 
 With a background in commonication and media sciences, i wandered through a pleathora of diciplines to end up in the beautiful struggle that is development.
 
-My motivation is to ideate and construct websites and applications that will baffle you. 🌊
+My motivation is to ideate and construct applications that will baffle you, and expand my knowledge in development. 🌊
 
-Also find me on my GitLab profile!
+Also, if im not active here - find me on my **GitLab** profile!
 
-**https://gitlab.com/RichardBeindorf1**
+**https://gitlab.com/RichardBeindorf1** Currently working on a cinema app!
 
 Current Skill Status:
 
