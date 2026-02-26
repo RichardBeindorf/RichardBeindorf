@@ -13,16 +13,18 @@ Current Skill Status:
 
 |Skill   |Deph   |
 |--------|-------|
-|UI/UX   |Work Experience|
+|UI/UX / Figma|Work Experience|
 |HTML    |Pro|
-|CSS|Pro|
+|CSS or Tailwind|Pro|
 |JS|Expert|
 |TS|Only using this actually|
-|React|Main Framework|
-|NextJs|If SSR or easy hosting is needded|
+|React or NextJS|Main Framework|
 |ThreeJS/WebGL|Advanced|
 |Angular|Fundamentals|
 |NodeJS|Fundamentals|
+|Express|Fundamentals|
+|Redux|Fundamentals|
 |MongoDB|Fundamentals|
+|Prisma|Fundamentals|
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
