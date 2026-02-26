@@ -26,5 +26,6 @@ Current Skill Status:
 |Redux|Fundamentals|
 |MongoDB|Fundamentals|
 |Prisma|Fundamentals|
+|Git|Living and Breathing|
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
