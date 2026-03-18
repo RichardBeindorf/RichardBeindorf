@@ -5,7 +5,7 @@ With a background in commonication and media sciences, i wandered through a plea
 
 My motivation is to ideate and construct applications that will baffle you, and expand my knowledge in development. 🌊
 
-Also, if im not active here - find me on my **GitLab** profile!
+Also, if im not active here - find me on my **GitLab** profile.
 
 **https://gitlab.com/RichardBeindorf1** Currently working on a cinema app!
 
@@ -18,7 +18,7 @@ Current Skill Status:
 |CSS or Tailwind|Pro|
 |JS|Expert|
 |TS|Only using this actually|
-|React or NextJS|Main Framework|
+|React / NextJS|Main Framework|
 |ThreeJS/WebGL|Advanced|
 |Angular|Fundamentals|
 |NodeJS|Fundamentals|
