@@ -7,9 +7,8 @@ My motivation is to ideate and construct applications that will baffle you, and 
 
 Here is my beautiful [portfolio](https://richardbeindorf.com/)  💼 👀
 
-Also, if im not active here - find me on my **GitLab** profile.
-
-[GitLab](https://gitlab.com/RichardBeindorf1 )  Currently working on a cinema app!
+Also, if im not active here - find me on my [GitLab](https://gitlab.com/RichardBeindorf1 ) profile.
+Currently working on a cinema app!
 
 Current Skill Status:
 
