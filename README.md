@@ -5,11 +5,11 @@ With a background in commonication and media sciences, i wandered through a plea
 
 My motivation is to ideate and construct applications that will baffle you, and expand my knowledge in development. 🌊
 
-Here is my beautiful ([portfolio](https://richardbeindorf.com/))  💼 👀
+Here is my beautiful [portfolio](https://richardbeindorf.com/)  💼 👀
 
 Also, if im not active here - find me on my **GitLab** profile.
 
-([GitLab](https://gitlab.com/RichardBeindorf1 ))  Currently working on a cinema app!
+[GitLab](https://gitlab.com/RichardBeindorf1 )  Currently working on a cinema app!
 
 Current Skill Status:
 
